@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Olá! Meu nome é Guilherme e sou estudante de Desenvolvimento de Sistemas pelo SENAI. Tenho grande interesse por tecnologia, programação e inovação, e estou em constante busca por aprimoramento técnico e profissional.<br>Atualmente, estou desenvolvendo habilidades em front-end e back-end, com foco em boas práticas de desenvolvimento, estruturação de projetos e criação de soluções eficientes.<br>Sou comprometido com a qualidade do que produzo, valorizo o trabalho em equipe e acredito que a tecnologia é uma poderosa aliada na transformação de ideias em soluções reais. Este espaço é dedicado aos meus projetos, estudos e contribuições para a comunidade de desenvolvedores.<br>Fique à vontade para explorar meus repositórios e acompanhar minha evolução!</p>
+<p align="center">Olá! Meu nome é Guilherme e sou estudante de Desenvolvimento de Sistemas pelo SENAI. Estou em constante busca por aprimoramento técnico e profissional.<br> Este espaço é dedicado aos meus projetos, estudos e contribuições para a comunidade de desenvolvedores.<br>Fique à vontade para explorar meus repositórios e acompanhar minha evolução!</p>
 
 ###
 
@@ -48,6 +48,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeveloperMarques/DeveloperMarques/output/pacman-contribution-graph-dark.svg">
