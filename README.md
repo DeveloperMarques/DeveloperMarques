@@ -4,7 +4,7 @@
 
 <p align="left">
   👨‍💻 Desenvolvedor Backend.<br>
-  💻 Desenvolvimento Web, Mobile, API's, Automações<br>
+  💻 Desenvolvimento Web, Mobile, API's, Automações.<br>
   🎓 Cursando Desenvolvimento de Sistemas - SENAI<br>
   ✅ Espaço reservado para armazenamento de projetos e desenvolvimento pessoal.
 </p>
