@@ -10,7 +10,7 @@
 </p>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,redis,firebase,supabase,docker,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,redis,firebase,supabase,docker,react,html,css,git,github)](https://skillicons.dev)
 
 
 ###
